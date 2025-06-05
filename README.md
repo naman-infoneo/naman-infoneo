@@ -16,7 +16,7 @@
      
 </div>
 
-<h3 align="center">A passionate Full-Stack Developer and Life-Long Learner based in India</h3>
+<h4 align="center">I'm a passionate MERN Stack Developer who loves building robust and scalable web applications. My journey in tech is fueled by curiosity, continuous learning, and a drive to contribute to the open-source community.</h4>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
